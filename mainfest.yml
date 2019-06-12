@@ -4,4 +4,4 @@ applications:
   disk: 1024M
   memory: 1024M
   random-route: true
-  buildpack: java_buildpack_offline
+  buildpack: java_buildpack
