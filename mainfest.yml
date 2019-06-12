@@ -2,6 +2,6 @@
 applications:
 - name: FYIDeloy
   disk: 1024M
-  memory: 2048M
+  memory: 1024M
   random-route: true
   buildpack: java_buildpack
