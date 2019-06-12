@@ -6,7 +6,7 @@
 #DIST_FOLDER=$PWD/dist
 
 #mkdir -p $DIST_FOLDER
-cd JarApp
+cd JarApp/spring-boot-sample-atmosphere
 
 mvn package
 
