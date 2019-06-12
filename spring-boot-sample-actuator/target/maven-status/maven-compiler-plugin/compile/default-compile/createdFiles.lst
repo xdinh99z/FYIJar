@@ -1,0 +1,6 @@
+sample\actuator\ExampleInfoContributor.class
+sample\actuator\SampleActuatorApplication.class
+sample\actuator\SampleController.class
+sample\actuator\ServiceProperties.class
+sample\actuator\HelloWorldService.class
+sample\actuator\SampleController$Message.class

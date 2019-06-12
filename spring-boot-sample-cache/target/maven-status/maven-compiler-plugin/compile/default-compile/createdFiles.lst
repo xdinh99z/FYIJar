@@ -1,0 +1,5 @@
+sample\cache\CacheManagerCheck.class
+sample\cache\SampleCacheApplication.class
+sample\cache\SampleClient.class
+sample\cache\Country.class
+sample\cache\CountryRepository.class

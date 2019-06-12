@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sample.actuator.InsecureManagementSampleActuatorApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.788 sec - in sample.actuator.InsecureManagementSampleActuatorApplicationTests

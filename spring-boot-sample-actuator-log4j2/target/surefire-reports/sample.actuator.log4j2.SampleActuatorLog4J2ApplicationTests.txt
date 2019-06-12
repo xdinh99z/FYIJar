@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sample.actuator.log4j2.SampleActuatorLog4J2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.757 sec - in sample.actuator.log4j2.SampleActuatorLog4J2ApplicationTests

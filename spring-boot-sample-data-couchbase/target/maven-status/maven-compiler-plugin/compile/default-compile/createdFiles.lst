@@ -1,0 +1,3 @@
+sample\data\couchbase\User.class
+sample\data\couchbase\UserRepository.class
+sample\data\couchbase\SampleCouchbaseApplication.class

@@ -8,8 +8,8 @@
 #mkdir -p $DIST_FOLDER
 cd JarApp/spring-boot-sample-atmosphere
 
-mvn install
-mvn package
+
+mvn package -DskipTests
 
 #npm install
 #npm install @angular/cli

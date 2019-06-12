@@ -1,0 +1,4 @@
+sample\data\cassandra\SampleCassandraApplicationTests$SkipOnWindows.class
+sample\data\cassandra\OrderedCassandraTestExecutionListener.class
+sample\data\cassandra\SampleCassandraApplicationTests$SkipOnWindows$1.class
+sample\data\cassandra\SampleCassandraApplicationTests.class
